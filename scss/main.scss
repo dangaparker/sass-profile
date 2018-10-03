@@ -50,10 +50,10 @@ a {
 
 .warning-button {
   @include warning;
-  padding: 8px 12px;
+  padding: 10px 15px;
 
   &:hover{
-    background-color: lighten(orange, 10%);
+    background-color: lighten(orangered, 30%);
     cursor: pointer;
   }
 }
