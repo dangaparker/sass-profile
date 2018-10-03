@@ -10,6 +10,4 @@
     @return($page-width - $gap*($columns - 1))/$columns;
 }
 
-@function strip-unit($value){
-    
-}
+//strip-unit function - controversial
